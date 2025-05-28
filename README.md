@@ -1,3 +1,16 @@
+# Group-Project-3
+---
+## GROUP 1 PROJECT 3 TEAM MEMBERS
+ Project 2 presented on June 2, 2025 by Group 1 Team Members
+
+ *Michael Hnidash*  
+ *Alexander Lin*  
+ *Nan Shi*   
+ *Kevin Rivera*  
+ *Sofia Frrokaj*  
+
+### **Project Overview**
+
 # Smart Recipe App
 
 This is a Streamlit-based web application that generates weekly meal plans and provides nutrition tips using Google Gemini AI.
